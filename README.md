@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <a href="#"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  /></a>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
   <img width="12" />
