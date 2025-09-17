@@ -6,29 +6,52 @@
 
 ###
 
-<div align="left"><picture>
+<div align="left">
+  <picture>
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-</picture>
+  </picture>
+  <picture>
   <img width="12" />
+  </picture>
+  <picture>
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
   <img width="12" />
+  </picture>
+  <picture>
   <img src="https://cdn.simpleicons.org/css/1572B6" height="30" alt="css logo"  />
   <img width="12" />
+  </picture>
+  <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+  </picture>
+  <picture>
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="12" />
+  </picture>
+  <picture>
   <img src="https://cdn.simpleicons.org/c++/00599C" height="30" alt="cplusplus logo"  />
   <img width="12" />
+  </picture>
+  <picture>
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
   <img width="12" />
+  </picture>
+  <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
+  </picture>
+  <picture>
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
   <img width="12" />
+  </picture>
+  <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
+  </picture>
+  <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  </picture>
 </div>
 
 ###
